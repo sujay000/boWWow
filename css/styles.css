@@ -1,0 +1,186 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    
+}
+
+
+h1{
+    color: #fff;
+    font-family: 'Fredoka One', cursive;
+}
+
+.navbrand{
+    font-size: 3rem;
+    font-weight: bolder;
+    margin-left: 5%;
+}
+
+.navitem{
+    font-weight: bold;
+}
+
+.titlerow{
+    padding: 5%;
+}
+
+.titlesec{
+    background-color: #ff4c68;
+}
+
+.div1{
+    padding: 3%;
+    /* background-color: rgba(255,255,255,0.3); */
+}
+
+.labell{
+    font-size: 120%;
+
+}
+
+.formelements{
+    margin: 3%;
+    color: #fff;
+}
+
+
+.titleimage{
+    width: 65%;
+    
+    margin: auto 0;
+    
+}
+
+.inputbar{
+    width: 50%;
+    background-color: rgba(255,255,255,0.2);
+    border:1px solid rgba(255,255,255,0.3);
+    outline: none;
+    border-radius: 3%;
+}
+
+.inputbar:focus{
+    border:1.5px solid white
+}
+
+.imgdiv{
+    margin: 3% 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.feature{
+    padding: 7% 15%;
+}
+
+.feature-box{
+    text-align: center;
+    color: #8f8f8f;
+    padding: 4.5%;
+    line-height: 1.5;
+}
+
+.feature-box img{
+    width: 35%;
+    
+}
+
+.brandn{
+    width: 30%;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+    color: #000;
+    margin: 1rem 0;
+  }
+
+  .colored-section{
+      background-color: #ef8172;
+      color: #fff;
+  }
+
+
+form label{
+    margin: 1% 0;
+}
+
+
+
+  .carous{
+      text-align: center;
+  }
+  
+.testimonial-image {
+    width: 30%;
+    border-radius: 10%;
+    margin: 1.25rem 2rem 10%;
+  }
+
+
+.testimonials{
+    text-align: center;
+}
+
+
+
+.testimonial-text{
+    margin: 5% 25% 5%;
+
+}
+
+
+.icon {
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+
+.icon:hover {
+    color: #CF1B1B;
+}
+  
+
+.footer{
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #fff;
+}
+
+.footerlinks{
+    text-decoration: none;
+    margin: 0 2%;
+
+}
+
+.copyright{
+
+    margin:3.7% 0 2%;
+    color: #8f8f8f;
+}
+
+.social-icons{
+    color: #ff4c68;
+}
+
+.footer h2{
+    margin-bottom: 5%;
+    font-weight: bolder;
+}
+
+h3{
+    font-weight: bolder;
+}
+
+.espan{
+    color: white;
+    font-size: small;
+    margin-left: 2%;
+}
+
+::placeholder{
+    color: #000;
+    font-weight: lighter;
+    
+}
+
